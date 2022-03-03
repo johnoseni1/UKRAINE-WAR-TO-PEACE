@@ -22,4 +22,8 @@ And this doesn't work, it took me to read lots on articles on military and war a
 ```Life is not all about building companies alone, but also being able to create something that would save the whole world from chaos```, <br />
 
 Watch out for the waitlist tomorrow, and also the softwares being used are strictly confidential for now, cause it took me a whole lot risk to make this application come to live
+<br /><br />
 
+Feel free to drop an issues at ```https://github.com/johnoseni1/UKRAINE-WAR-TO-PEACE/issues```, if maybe you have a solution or something you'de like to say, 
+
+There is more to what am saying than just words 😊,
