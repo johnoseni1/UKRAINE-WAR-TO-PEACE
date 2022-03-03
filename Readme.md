@@ -15,3 +15,11 @@ Of course, people might be thinking how does this application work?, 😂
 Check this readme/ Repository by tomorrow, the waitlist would be dropped, then you gonna see how it works, 
 
 The full application would be tested this Monday where ```John Oseni``` himself would go live on all social media platforms, if that doesn't work, the video would be dropped
+
+
+And this doesn't work, it took me to read lots on articles on military and war artifacts and weapons, and ```John Oseni``` got to know they're all vulnerable to something, 
+
+```Life is not all about building companies alone, but also being able to create something that would save the whole world from chaos```, <br />
+
+Watch out for the waitlist tomorrow, and also the softwares being used are strictly confidential for now, cause it took me a whole lot risk to make this application come to live
+
